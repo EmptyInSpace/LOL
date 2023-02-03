@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/LOL.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="885 564">
+    <action-group name="Default">
+      <action id="Action">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">База данных</property>
+        <property name="ShortLabel" translatable="yes">База данных</property>
+      </action>
+      <action id="gfdghAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">gfdgh</property>
+        <property name="ShortLabel" translatable="yes">gfdgh</property>
+      </action>
+      <action id="gdhfAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">gdhf</property>
+        <property name="ShortLabel" translatable="yes">gdhf</property>
+      </action>
+      <action id="Action1">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes" />
+        <property name="ShortLabel" translatable="yes" />
+      </action>
+      <action id="Action21">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes" />
+        <property name="ShortLabel" translatable="yes" />
+      </action>
+      <action id="gfdgAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">gfdg</property>
+        <property name="ShortLabel" translatable="yes">gfdg</property>
+      </action>
+    </action-group>
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">MainWindow</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <placeholder />
+    </child>
+  </widget>
+</stetic-interface>

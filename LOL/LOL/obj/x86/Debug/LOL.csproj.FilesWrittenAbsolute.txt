@@ -1,0 +1,6 @@
+/home/user/CSharpProjects/LOL/LOL/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user/CSharpProjects/LOL/LOL/obj/x86/Debug/LOL.gtk-gui.gui.stetic
+/home/user/CSharpProjects/LOL/LOL/bin/Debug/LOL.exe.mdb
+/home/user/CSharpProjects/LOL/LOL/bin/Debug/LOL.exe
+/home/user/CSharpProjects/LOL/LOL/obj/x86/Debug/LOL.exe
+/home/user/CSharpProjects/LOL/LOL/obj/x86/Debug/LOL.exe.mdb
